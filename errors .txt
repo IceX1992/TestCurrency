@@ -1,0 +1,2 @@
+2016-06-08error : com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '2016-06-08' for key 'datum'
+2016-06-08error : com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '2016-06-08' for key 'datum'
